@@ -11,6 +11,7 @@
 		* Start()
 		* Update()
 		* Custom Methods
+	* NameSpaces
 * Triggers
 	* OnTriggerEnter()
 	* OnTriggerExit()
