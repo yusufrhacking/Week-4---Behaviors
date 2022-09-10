@@ -1,5 +1,14 @@
 # Week 4 - Behaviors
 
+## Relevant Slides
+
+https://myuva-my.sharepoint.com/:p:/g/personal/jcb2h_virginia_edu/EViQb-8UzU1FmtdTYQx9ilYBmaCBujOghZlzcoLw74YMTA?e=fA0Jx7
+
+## Relevant Manual Pages
+
+https://docs.unity3d.com/Manual/CreatingAndUsingScripts.html
+https://docs.unity3d.com/Manual/CollidersOverview.html (Triggers section)
+
 ## Skills
 
 * The anatomy of a Custom Component / Script
