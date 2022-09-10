@@ -33,7 +33,7 @@ Solve this puzzle:
 * There is a spot on the floor indicating where to stand
 * By walking over to stand on that spot, you cause the following to happen: a cube moves up a bit, then stops and rotates a bit, then goes back down the same amount, then rotates back the same amount, and does this cycle 3 times. 
 
-It is never moving and rotating at the same time. You do not need to write any new scripts to accomplish this.
+It is never moving and rotating at the same time. You do not need to write any new scripts to accomplish this (other than those that already exist or you made in **The Level**).
 
 BONUS: the cube is red while moving, blue while rotating
 
